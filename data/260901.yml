@@ -1,0 +1,68 @@
+about:
+  description: the runtime your coding agents live on
+  license: Apache-2.0
+  homepage: https://herdr.dev
+  head: 5158ada
+  archived: false
+  latestVersion: preview-2026-08-31-b1ff4582e968
+  collectedAt: 2026-09-01T05:04:33Z
+timeline:
+  created: 2026-03-27
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 34118
+  watcher: 98
+  fork: 2498
+  release: 84
+  contributor: 80
+  pullRequest: 416
+  issue: 1682
+language:
+  Rust: 8902765
+  Python: 206810
+  TypeScript: 171521
+  CSS: 131932
+  PowerShell: 101381
+  Astro: 97221
+  JavaScript: 69577
+  HTML: 55815
+  Shell: 54961
+  Just: 10233
+  Nix: 4917
+  Perl: 801
+  Batchfile: 729
+totalLine: 9808663
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 7
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 39
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 84
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-06
+    release: 84
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0

@@ -7,19 +7,19 @@ about:
   head: a2b1289
   archived: false
   latestVersion: preview-2026-08-31-b1ff4582e968
-  collectedAt: 2026-09-04T19:34:00Z
+  collectedAt: 2026-09-04T21:02:28Z
 timeline:
   created: 2026-03-27
   lastCommit: 2026-09-04
   lastRelease: 2026-08-31
 popularity:
-  star: 35322
+  star: 35337
   watcher: 101
-  fork: 2588
+  fork: 2589
   release: 84
   contributor: 81
   pullRequest: 714
-  issue: 1749
+  issue: 1750
 language:
   Rust: 8682342
   Python: 212408
@@ -85,9 +85,167 @@ total:
   release: 84
   mergedPR: 284
   openPR: 31
-  closedIssue: 1512
+  closedIssue: 1513
   openIssue: 237
   commit: 1524
 ---
+path: /home/runner/.x-repo/github.com/ogulcancelik/herdr
+collectedAt: 2026-09-04T21:02:31Z
+loc:
+  Rust:
+    code: 223664
+    comments: 1530
+    blanks: 18839
+    files: 331
+  Zig:
+    code: 206162
+    comments: 44753
+    blanks: 37143
+    files: 698
+  Cpp:
+    code: 32555
+    comments: 6922
+    blanks: 4321
+    files: 9
+  Json:
+    code: 20551
+    comments: 0
+    blanks: 0
+    files: 23
+  CHeader:
+    code: 20229
+    comments: 12630
+    blanks: 3404
+    files: 52
+  Python:
+    code: 15973
+    comments: 96
+    blanks: 1001
+    files: 27
+  TypeScript:
+    code: 3700
+    comments: 52
+    blanks: 444
+    files: 10
+  Toml:
+    code: 2852
+    comments: 158
+    blanks: 300
+    files: 49
+  PowerShell:
+    code: 2485
+    comments: 64
+    blanks: 229
+    files: 19
+  Nix:
+    code: 2211
+    comments: 102
+    blanks: 217
+    files: 34
+  Sh:
+    code: 1863
+    comments: 258
+    blanks: 274
+    files: 23
+  JavaScript:
+    code: 831
+    comments: 19
+    blanks: 94
+    files: 6
+  Glsl:
+    code: 583
+    comments: 242
+    blanks: 171
+    files: 15
+  Metal:
+    code: 471
+    comments: 258
+    blanks: 124
+    files: 1
+  C:
+    code: 269
+    comments: 65
+    blanks: 59
+    files: 8
+  CMake:
+    code: 234
+    comments: 167
+    blanks: 50
+    files: 2
+  Xml:
+    code: 231
+    comments: 9
+    blanks: 7
+    files: 1
+  Bash:
+    code: 156
+    comments: 84
+    blanks: 29
+    files: 1
+  Fish:
+    code: 118
+    comments: 34
+    blanks: 26
+    files: 1
+  Css:
+    code: 111
+    comments: 62
+    blanks: 24
+    files: 4
+  Elvish:
+    code: 95
+    comments: 16
+    blanks: 19
+    files: 1
+  Dockerfile:
+    code: 53
+    comments: 15
+    blanks: 13
+    files: 2
+  Autoconf:
+    code: 47
+    comments: 8
+    blanks: 10
+    files: 1
+  Perl:
+    code: 23
+    comments: 1
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 19
+    comments: 4
+    blanks: 5
+    files: 1
+  Batch:
+    code: 18
+    comments: 0
+    blanks: 3
+    files: 1
+  Svg:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 2
+  Yaml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4492
+    blanks: 1445
+    files: 38
+  Text:
+    code: 0
+    comments: 9829
+    blanks: 928
+    files: 242
+total:
+  code: 535638
+  comments: 83563
+  blanks: 69295
+  files: 1604
 ---
 

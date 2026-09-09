@@ -7,7 +7,7 @@ the runtime your coding agents live on
 - **Latest release**: `preview-2026-09-08-62431dbd033b` (2026-09-07)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 36411 · **Forks**: 2665 · **Open issues**: 1814 · **Contributors**: 83
+- **Stars**: 36815 · **Forks**: 2696 · **Open issues**: 1837 · **Contributors**: 83
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/herdr> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:25:50Z._
+_Last regenerated: 2026-09-09T05:12:35Z._

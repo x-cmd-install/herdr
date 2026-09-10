@@ -2,38 +2,38 @@ about:
   description: "the runtime your coding agents live on"
   license: Apache-2.0
   homepage: https://herdr.dev
-  head: 120c682
+  head: 90e947a
   archived: false
   latestVersion: "preview-2026-09-08-62431dbd033b"
   latestRelease: "v0.9.0"
   latestPrerelease: "preview-2026-09-08-62431dbd033b"
-  collectedAt: 2026-09-10T05:15:39Z
+  collectedAt: 2026-09-10T17:10:51Z
 timeline:
   created: 2026-03-27
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-09-07
   lastRelease: 2026-09-07
   lastPrerelease: 2026-09-07
 popularity:
-  star: 37201
-  watcher: 100
-  fork: 2732
+  star: 37395
+  watcher: 101
+  fork: 2744
   release: 86
   contributor: 83
-  pullRequest: 768
-  issue: 1872
+  pullRequest: 774
+  issue: 1892
 language:
-  Rust: 9430838
+  Rust: 9474361
   Python: 212750
   PowerShell: 109865
-  TypeScript: 83938
+  TypeScript: 84944
   Shell: 55233
   JavaScript: 30432
   Just: 9517
   Nix: 4917
   Perl: 801
   Batchfile: 729
-totalBytes: 9939020
+totalBytes: 9983549
 recent:
   last30d:
     since: 2026-08-11
@@ -85,19 +85,19 @@ recent:
     commit: 0
 total:
   release: 86
-  mergedPR: 311
-  openPR: 45
-  closedIssue: 1584
-  openIssue: 288
-  commit: 1560
+  mergedPR: 322
+  openPR: 38
+  closedIssue: 1603
+  openIssue: 289
+  commit: 1571
 ---
 path: /home/runner/.x-repo/github.com/ogulcancelik/herdr
-collectedAt: 2026-09-10T05:15:45Z
+collectedAt: 2026-09-10T17:10:58Z
 loc:
   Rust:
-    code: 242353
-    comments: 1717
-    blanks: 20123
+    code: 243447
+    comments: 1725
+    blanks: 20175
     files: 379
   Zig:
     code: 206162
@@ -145,9 +145,9 @@ loc:
     blanks: 274
     files: 23
   TypeScript:
-    code: 1740
+    code: 1769
     comments: 24
-    blanks: 266
+    blanks: 270
     files: 8
   JavaScript:
     code: 835
@@ -245,9 +245,9 @@ loc:
     blanks: 928
     files: 242
 total:
-  code: 554282
-  comments: 83931
-  blanks: 70424
+  code: 555405
+  comments: 83939
+  blanks: 70480
   files: 1649
 ---
 

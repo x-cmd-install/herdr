@@ -2,12 +2,12 @@ about:
   description: "the runtime your coding agents live on"
   license: Apache-2.0
   homepage: https://herdr.dev
-  head: 043b804
+  head: 5827145
   archived: false
   latestVersion: "preview-2026-09-08-62431dbd033b"
   latestRelease: "v0.9.0"
   latestPrerelease: "preview-2026-09-08-62431dbd033b"
-  collectedAt: 2026-09-10T21:30:48Z
+  collectedAt: 2026-09-10T22:22:38Z
 timeline:
   created: 2026-03-27
   lastCommit: 2026-09-10
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 2026-09-07
 popularity:
-  star: 37459
-  watcher: 101
-  fork: 2752
+  star: 37467
+  watcher: 102
+  fork: 2757
   release: 86
   contributor: 83
-  pullRequest: 775
-  issue: 1898
+  pullRequest: 779
+  issue: 1899
 language:
-  Rust: 9642035
+  Rust: 9644891
   Python: 212750
   PowerShell: 109865
   TypeScript: 84944
@@ -33,7 +33,7 @@ language:
   Nix: 4917
   Perl: 801
   Batchfile: 729
-totalBytes: 10151793
+totalBytes: 10154649
 recent:
   last30d:
     since: 2026-08-11
@@ -85,14 +85,14 @@ recent:
     commit: 0
 total:
   release: 86
-  mergedPR: 324
-  openPR: 35
-  closedIssue: 1607
+  mergedPR: 325
+  openPR: 37
+  closedIssue: 1608
   openIssue: 291
-  commit: 1573
+  commit: 1574
 ---
 path: /home/runner/.x-repo/github.com/ogulcancelik/herdr
-collectedAt: 2026-09-10T21:30:59Z
+collectedAt: 2026-09-10T22:22:43Z
 loc:
   Zig:
     code: 254279
@@ -100,9 +100,9 @@ loc:
     blanks: 45174
     files: 757
   Rust:
-    code: 246001
+    code: 246072
     comments: 1750
-    blanks: 20224
+    blanks: 20226
     files: 382
   CHeader:
     code: 36885
@@ -250,9 +250,9 @@ loc:
     blanks: 928
     files: 242
 total:
-  code: 624570
+  code: 624641
   comments: 97992
-  blanks: 79646
+  blanks: 79648
   files: 1754
 ---
 

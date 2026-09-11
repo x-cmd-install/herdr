@@ -14,12 +14,12 @@ x install herdr
 
 ## Code insight
 
-Total: **624,718** lines of code across **1236** files in the top 5 languages.
+Total: **625,539** lines of code across **1237** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Zig | 254,279 | 55,831 | 45,174 | 757 |
-| Rust | 246,270 | 1,752 | 20,235 | 382 |
+| Rust | 246,863 | 1,766 | 20,297 | 383 |
 | CHeader | 36,885 | 15,384 | 4,316 | 65 |
 | Cpp | 32,555 | 6,922 | 4,321 | 9 |
 | Json | 22,719 | 0 | 0 | 23 |
@@ -38,11 +38,11 @@ Total: **624,718** lines of code across **1236** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,541 · **Forks**: 2,771 · **Open issues**: 1,904 · **Contributors**: 83
+- **Stars**: 37,744 · **Forks**: 2,791 · **Open issues**: 1,919 · **Contributors**: 83
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 327 · **Open PRs**: 36 · **Closed issues**: 1611 · **Open issues**: 293 · **Commits**: 1576
+- **Releases**: 86 · **Merged PRs**: 337 · **Open PRs**: 36 · **Closed issues**: 1622 · **Open issues**: 297 · **Commits**: 1588
 
 ## Recent activity
 
@@ -67,7 +67,7 @@ Total: **624,718** lines of code across **1236** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/herdr). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/herdr). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:09:50Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:53:53Z._

@@ -1,3 +1,27 @@
+- repo: aur
+  srcname: herdr
+  binname: herdr
+  visiblename: herdr
+  version: 0.8.2
+  origversion: 0.8.2-1
+  status: outdated
+  summary: Terminal workspace manager for AI coding agents
+  maintainers:
+    - huyz@aur
+  licenses:
+    - AGPL-3.0-or-later
+- repo: aur
+  srcname: herdr-bin
+  binname: herdr-bin
+  visiblename: herdr-bin
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: newest
+  summary: Supervise multiple coding agents in one terminal
+  maintainers:
+    - czyt@aur
+  licenses:
+    - AGPL-3.0-or-later
 - repo: alt_p11
   srcname: herdr
   binnames:
@@ -30,30 +54,6 @@
     - Apache-2.0
   categories:
     - Terminals
-- repo: aur
-  srcname: herdr
-  binname: herdr
-  visiblename: herdr
-  version: 0.8.2
-  origversion: 0.8.2-1
-  status: outdated
-  summary: Terminal workspace manager for AI coding agents
-  maintainers:
-    - huyz@aur
-  licenses:
-    - AGPL-3.0-or-later
-- repo: aur
-  srcname: herdr-bin
-  binname: herdr-bin
-  visiblename: herdr-bin
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: newest
-  summary: Supervise multiple coding agents in one terminal
-  maintainers:
-    - czyt@aur
-  licenses:
-    - AGPL-3.0-or-later
 - repo: aur
   srcname: herdr-git
   binname: herdr-git
@@ -117,9 +117,9 @@
   srcname: herdr-bin
   binname: herdr-bin
   visiblename: herdr-bin
-  version: 0.8.2
-  origversion: 0.8.2-1
-  status: outdated
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: newest
   summary: Supervise multiple coding agents in one terminal
   maintainers:
     - jochen.hoermann@gmail.com

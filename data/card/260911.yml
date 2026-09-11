@@ -2,12 +2,12 @@ about:
   description: "the runtime your coding agents live on"
   license: Apache-2.0
   homepage: https://herdr.dev
-  head: 61ca85d
+  head: b11ac85
   archived: false
   latestVersion: "preview-2026-09-08-62431dbd033b"
   latestRelease: "v0.9.0"
   latestPrerelease: "preview-2026-09-08-62431dbd033b"
-  collectedAt: 2026-09-11T05:09:38Z
+  collectedAt: 2026-09-11T19:53:40Z
 timeline:
   created: 2026-03-27
   lastCommit: 2026-09-11
@@ -15,25 +15,25 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 2026-09-07
 popularity:
-  star: 37541
+  star: 37744
   watcher: 102
-  fork: 2771
+  fork: 2791
   release: 86
   contributor: 83
-  pullRequest: 781
-  issue: 1904
+  pullRequest: 791
+  issue: 1919
 language:
-  Rust: 9653397
-  Python: 212750
-  PowerShell: 109865
+  Rust: 9678775
+  Python: 220806
+  PowerShell: 109860
   TypeScript: 84944
   Shell: 55649
   JavaScript: 30432
-  Just: 9671
+  Just: 9888
   Nix: 4917
   Perl: 801
   Batchfile: 729
-totalBytes: 10163155
+totalBytes: 10196801
 recent:
   last30d:
     since: 2026-08-12
@@ -85,14 +85,14 @@ recent:
     commit: 0
 total:
   release: 86
-  mergedPR: 327
+  mergedPR: 337
   openPR: 36
-  closedIssue: 1611
-  openIssue: 293
-  commit: 1576
+  closedIssue: 1622
+  openIssue: 297
+  commit: 1588
 ---
 path: /home/runner/.x-repo/github.com/ogulcancelik/herdr
-collectedAt: 2026-09-11T05:09:44Z
+collectedAt: 2026-09-11T19:53:46Z
 loc:
   Zig:
     code: 254279
@@ -100,10 +100,10 @@ loc:
     blanks: 45174
     files: 757
   Rust:
-    code: 246270
-    comments: 1752
-    blanks: 20235
-    files: 382
+    code: 246863
+    comments: 1766
+    blanks: 20297
+    files: 383
   CHeader:
     code: 36885
     comments: 15384
@@ -120,17 +120,17 @@ loc:
     blanks: 0
     files: 23
   Python:
-    code: 16418
-    comments: 95
-    blanks: 1076
-    files: 29
+    code: 16581
+    comments: 96
+    blanks: 1100
+    files: 31
   Toml:
-    code: 2955
+    code: 3021
     comments: 192
-    blanks: 306
+    blanks: 314
     files: 49
   PowerShell:
-    code: 2638
+    code: 2637
     comments: 64
     blanks: 228
     files: 19
@@ -241,8 +241,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 4678
-    blanks: 1478
+    comments: 4696
+    blanks: 1481
     files: 40
   Text:
     code: 0
@@ -250,10 +250,10 @@ loc:
     blanks: 928
     files: 242
 total:
-  code: 624839
-  comments: 97994
-  blanks: 79657
-  files: 1754
+  code: 625662
+  comments: 98033
+  blanks: 79755
+  files: 1757
 ---
 
 ---

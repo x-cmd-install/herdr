@@ -14,12 +14,12 @@ x install herdr
 
 ## Code insight
 
-Total: **624,520** lines of code across **1236** files in the top 5 languages.
+Total: **624,718** lines of code across **1236** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Zig | 254,279 | 55,831 | 45,174 | 757 |
-| Rust | 246,072 | 1,750 | 20,226 | 382 |
+| Rust | 246,270 | 1,752 | 20,235 | 382 |
 | CHeader | 36,885 | 15,384 | 4,316 | 65 |
 | Cpp | 32,555 | 6,922 | 4,321 | 9 |
 | Json | 22,719 | 0 | 0 | 23 |
@@ -33,27 +33,27 @@ Total: **624,520** lines of code across **1236** files in the top 5 languages.
 ## Release
 
 - **Latest**: `preview-2026-09-08-62431dbd033b` (2026-09-07)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 37,467 · **Forks**: 2,757 · **Open issues**: 1,899 · **Contributors**: 83
+- **Stars**: 37,541 · **Forks**: 2,771 · **Open issues**: 1,904 · **Contributors**: 83
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 325 · **Open PRs**: 37 · **Closed issues**: 1608 · **Open issues**: 291 · **Commits**: 1574
+- **Releases**: 86 · **Merged PRs**: 327 · **Open PRs**: 36 · **Closed issues**: 1611 · **Open issues**: 293 · **Commits**: 1576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-12 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-14 | 86 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 86 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-20 | 86 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-12 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 27 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 86 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 86 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 86 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **624,520** lines of code across **1236** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/herdr). **4** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/herdr). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:22:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:09:50Z._

@@ -1,0 +1,259 @@
+about:
+  description: "the runtime your coding agents live on"
+  license: Apache-2.0
+  homepage: https://herdr.dev
+  head: 61ca85d
+  archived: false
+  latestVersion: "preview-2026-09-08-62431dbd033b"
+  latestRelease: "v0.9.0"
+  latestPrerelease: "preview-2026-09-08-62431dbd033b"
+  collectedAt: 2026-09-11T05:09:38Z
+timeline:
+  created: 2026-03-27
+  lastCommit: 2026-09-11
+  lastVersion: 2026-09-07
+  lastRelease: 2026-09-07
+  lastPrerelease: 2026-09-07
+popularity:
+  star: 37541
+  watcher: 102
+  fork: 2771
+  release: 86
+  contributor: 83
+  pullRequest: 781
+  issue: 1904
+language:
+  Rust: 9653397
+  Python: 212750
+  PowerShell: 109865
+  TypeScript: 84944
+  Shell: 55649
+  JavaScript: 30432
+  Just: 9671
+  Nix: 4917
+  Perl: 801
+  Batchfile: 729
+totalBytes: 10163155
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-13
+    release: 17
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-13
+    release: 27
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-15
+    release: 86
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-16
+    release: 86
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-21
+    release: 86
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 86
+  mergedPR: 327
+  openPR: 36
+  closedIssue: 1611
+  openIssue: 293
+  commit: 1576
+---
+path: /home/runner/.x-repo/github.com/ogulcancelik/herdr
+collectedAt: 2026-09-11T05:09:44Z
+loc:
+  Zig:
+    code: 254279
+    comments: 55831
+    blanks: 45174
+    files: 757
+  Rust:
+    code: 246270
+    comments: 1752
+    blanks: 20235
+    files: 382
+  CHeader:
+    code: 36885
+    comments: 15384
+    blanks: 4316
+    files: 65
+  Cpp:
+    code: 32555
+    comments: 6922
+    blanks: 4321
+    files: 9
+  Json:
+    code: 22719
+    comments: 0
+    blanks: 0
+    files: 23
+  Python:
+    code: 16418
+    comments: 95
+    blanks: 1076
+    files: 29
+  Toml:
+    code: 2955
+    comments: 192
+    blanks: 306
+    files: 49
+  PowerShell:
+    code: 2638
+    comments: 64
+    blanks: 228
+    files: 19
+  Nix:
+    code: 2242
+    comments: 102
+    blanks: 216
+    files: 34
+  Sh:
+    code: 2061
+    comments: 349
+    blanks: 310
+    files: 25
+  TypeScript:
+    code: 1769
+    comments: 24
+    blanks: 270
+    files: 8
+  JavaScript:
+    code: 835
+    comments: 19
+    blanks: 94
+    files: 6
+  Glsl:
+    code: 583
+    comments: 242
+    blanks: 171
+    files: 15
+  Xml:
+    code: 529
+    comments: 9
+    blanks: 14
+    files: 2
+  Metal:
+    code: 471
+    comments: 258
+    blanks: 124
+    files: 1
+  Hex:
+    code: 311
+    comments: 0
+    blanks: 35
+    files: 22
+  C:
+    code: 269
+    comments: 65
+    blanks: 59
+    files: 8
+  CMake:
+    code: 234
+    comments: 167
+    blanks: 50
+    files: 2
+  Bash:
+    code: 156
+    comments: 84
+    blanks: 29
+    files: 1
+  Css:
+    code: 151
+    comments: 73
+    blanks: 25
+    files: 4
+  Fish:
+    code: 118
+    comments: 34
+    blanks: 26
+    files: 1
+  Elvish:
+    code: 95
+    comments: 16
+    blanks: 19
+    files: 1
+  Dockerfile:
+    code: 54
+    comments: 15
+    blanks: 13
+    files: 2
+  Autoconf:
+    code: 47
+    comments: 8
+    blanks: 10
+    files: 1
+  Perl:
+    code: 23
+    comments: 1
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 19
+    comments: 4
+    blanks: 5
+    files: 1
+  Batch:
+    code: 18
+    comments: 0
+    blanks: 3
+    files: 1
+  Svg:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 2
+  Yaml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4678
+    blanks: 1478
+    files: 40
+  Text:
+    code: 0
+    comments: 9831
+    blanks: 928
+    files: 242
+total:
+  code: 624839
+  comments: 97994
+  blanks: 79657
+  files: 1754
+---
+
+---

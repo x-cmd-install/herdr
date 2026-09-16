@@ -14,11 +14,11 @@ x install herdr
 
 ## Code insight
 
-Total: **638,889** lines of code across **1254** files in the top 5 languages.
+Total: **642,311** lines of code across **1260** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 259,275 | 1,997 | 20,911 | 400 |
+| Rust | 262,423 | 2,047 | 21,118 | 406 |
 | Zig | 254,376 | 55,847 | 45,195 | 757 |
 | CHeader | 36,890 | 15,393 | 4,317 | 65 |
 | Cpp | 32,555 | 6,922 | 4,321 | 9 |
@@ -38,22 +38,22 @@ Total: **638,889** lines of code across **1254** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,573 · **Forks**: 2,879 · **Open issues**: 1,999 · **Contributors**: 87
+- **Stars**: 38,796 · **Forks**: 2,910 · **Open issues**: 2,021 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 404 · **Open PRs**: 22 · **Closed issues**: 1715 · **Open issues**: 284 · **Commits**: 1659
+- **Releases**: 86 · **Merged PRs**: 414 · **Open PRs**: 20 · **Closed issues**: 1739 · **Open issues**: 282 · **Commits**: 1671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 25 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 86 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 86 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 86 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-17 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 86 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 86 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 86 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:41:15Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:39:56Z._

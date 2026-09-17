@@ -14,15 +14,15 @@ x install herdr
 
 ## 代码洞察
 
-合计: **642,311** 行代码（覆盖前 5 种语言、共 **1260** 个文件）。
+合计: **646,190** 行代码（覆盖前 5 种语言、共 **1263** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 262,423 | 2,047 | 21,118 | 406 |
+| Rust | 264,370 | 2,061 | 21,222 | 408 |
 | Zig | 254,376 | 55,847 | 45,195 | 757 |
 | CHeader | 36,890 | 15,393 | 4,317 | 65 |
 | Cpp | 32,555 | 6,922 | 4,321 | 9 |
-| Json | 22,794 | 0 | 0 | 23 |
+| Json | 24,358 | 0 | 0 | 24 |
 
 ## 源代码
 
@@ -32,38 +32,38 @@ x install herdr
 
 ## 发布
 
-- **最新版本**: `preview-2026-09-08-62431dbd033b` (2026-09-07)
-- **最近提交**: 2026-09-15
+- **最新版本**: `v0.9.1` (2026-09-16)
+- **最近提交**: 2026-09-17
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 38,796 · **Fork**: 2,910 · **开放 issue**: 2,021 · **贡献者**: 87
+- **Star**: 39,060 · **Fork**: 2,942 · **开放 issue**: 2,039 · **贡献者**: 87
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 414 · **开放 PR**: 20 · **已关闭 issue**: 1739 · **开放 issue**: 282 · **提交数**: 1671
+- **发布数**: 88 · **已合并 PR**: 425 · **开放 PR**: 23 · **已关闭 issue**: 1756 · **开放 issue**: 283 · **提交数**: 1686
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 13 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 25 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 86 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-21 | 86 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-26 | 86 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-18 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 27 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 88 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-22 | 88 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-27 | 88 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [herdr-linux-aarch64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.0/herdr-linux-aarch64) | 21.6 MiB | `native/linux/arm64` |
-| [herdr-linux-x86_64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.0/herdr-linux-x86_64) | 23.5 MiB | `native/linux/x64` |
-| [herdr-macos-aarch64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.0/herdr-macos-aarch64) | 19.7 MiB | `native/darwin/arm64` |
-| [herdr-macos-x86_64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.0/herdr-macos-x86_64) | 21.2 MiB | `native/darwin/x64` |
-| [herdr-windows-x86_64.zip](https://github.com/ogulcancelik/herdr/releases/download/v0.9.0/herdr-windows-x86_64.zip) | 8.6 MiB | `native/win/x64` |
+| [herdr-linux-aarch64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-linux-aarch64) | 23.0 MiB | `native/linux/arm64` |
+| [herdr-linux-x86_64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-linux-x86_64) | 25.0 MiB | `native/linux/x64` |
+| [herdr-macos-aarch64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-macos-aarch64) | 20.5 MiB | `native/darwin/arm64` |
+| [herdr-macos-x86_64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-macos-x86_64) | 22.0 MiB | `native/darwin/x64` |
+| [herdr-windows-x86_64.zip](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-windows-x86_64.zip) | 9.2 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ herdr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T05:39:57Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T05:48:02Z._

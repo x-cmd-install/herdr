@@ -26,7 +26,7 @@ x install herdr
 
 ## 源代码
 
-- **上游仓库**: <https://github.com/ogulcancelik/herdr>
+- **上游仓库**: <https://github.com/herdrdev/herdr>
 - **官网**: <https://herdr.dev>
 - **许可证**: Apache-2.0
 
@@ -59,11 +59,11 @@ x install herdr
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [herdr-linux-aarch64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-linux-aarch64) | 23.0 MiB | `native/linux/arm64` |
-| [herdr-linux-x86_64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-linux-x86_64) | 25.0 MiB | `native/linux/x64` |
-| [herdr-macos-aarch64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-macos-aarch64) | 20.5 MiB | `native/darwin/arm64` |
-| [herdr-macos-x86_64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-macos-x86_64) | 22.0 MiB | `native/darwin/x64` |
-| [herdr-windows-x86_64.zip](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-windows-x86_64.zip) | 9.2 MiB | `native/win/x64` |
+| [herdr-linux-aarch64](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-linux-aarch64) | 23.0 MiB | `native/linux/arm64` |
+| [herdr-linux-x86_64](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-linux-x86_64) | 25.0 MiB | `native/linux/x64` |
+| [herdr-macos-aarch64](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-macos-aarch64) | 20.5 MiB | `native/darwin/arm64` |
+| [herdr-macos-x86_64](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-macos-x86_64) | 22.0 MiB | `native/darwin/x64` |
+| [herdr-windows-x86_64.zip](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-windows-x86_64.zip) | 9.2 MiB | `native/win/x64` |
 
 ## 改进这些数据
 

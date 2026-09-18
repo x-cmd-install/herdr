@@ -26,7 +26,7 @@ Total: **648,229** lines of code across **1264** files in the top 5 languages.
 
 ## Source
 
-- **Upstream**: <https://github.com/ogulcancelik/herdr>
+- **Upstream**: <https://github.com/herdrdev/herdr>
 - **Homepage**: <https://herdr.dev>
 - **License**: Apache-2.0
 
@@ -59,11 +59,11 @@ Total: **648,229** lines of code across **1264** files in the top 5 languages.
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [herdr-linux-aarch64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-linux-aarch64) | 23.0 MiB | `native/linux/arm64` |
-| [herdr-linux-x86_64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-linux-x86_64) | 25.0 MiB | `native/linux/x64` |
-| [herdr-macos-aarch64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-macos-aarch64) | 20.5 MiB | `native/darwin/arm64` |
-| [herdr-macos-x86_64](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-macos-x86_64) | 22.0 MiB | `native/darwin/x64` |
-| [herdr-windows-x86_64.zip](https://github.com/ogulcancelik/herdr/releases/download/v0.9.1/herdr-windows-x86_64.zip) | 9.2 MiB | `native/win/x64` |
+| [herdr-linux-aarch64](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-linux-aarch64) | 23.0 MiB | `native/linux/arm64` |
+| [herdr-linux-x86_64](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-linux-x86_64) | 25.0 MiB | `native/linux/x64` |
+| [herdr-macos-aarch64](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-macos-aarch64) | 20.5 MiB | `native/darwin/arm64` |
+| [herdr-macos-x86_64](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-macos-x86_64) | 22.0 MiB | `native/darwin/x64` |
+| [herdr-windows-x86_64.zip](https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-windows-x86_64.zip) | 9.2 MiB | `native/win/x64` |
 
 ## Improve this data
 

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 24101456,
       "digest": "sha256:f4ccf4de745f2cb9a39a983e9ba3703dad50ec2a58dea83026ceab721bbd8d9e",
-      "download_count": 6807,
+      "download_count": 7855,
       "created_at": "2026-09-16T18:39:59Z",
       "updated_at": "2026-09-16T18:40:01Z",
       "browser_download_url": "https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-linux-aarch64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 26207464,
       "digest": "sha256:2a02fed16beb651ef006e1d43f048f652ca4dc58ad053cd2d44450563d5c54b7",
-      "download_count": 51012,
+      "download_count": 57808,
       "created_at": "2026-09-16T18:40:00Z",
       "updated_at": "2026-09-16T18:40:01Z",
       "browser_download_url": "https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-linux-x86_64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21526736,
       "digest": "sha256:5fc7a7e7adfaca56fa80aa89dcb025693357268dab8285b9ce2d08a2313c89de",
-      "download_count": 29164,
+      "download_count": 32691,
       "created_at": "2026-09-16T18:39:59Z",
       "updated_at": "2026-09-16T18:40:01Z",
       "browser_download_url": "https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-macos-aarch64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23098192,
       "digest": "sha256:053be0639935fe54ab5efbdb46651054e4f6a753a5b43153c88bd6912bce1e94",
-      "download_count": 2029,
+      "download_count": 2312,
       "created_at": "2026-09-16T18:39:59Z",
       "updated_at": "2026-09-16T18:40:01Z",
       "browser_download_url": "https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-macos-x86_64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9652583,
       "digest": "sha256:04ce380cac5af27bfcf75d0951ac49b7afe4c984aee8852985806d4f71f93a6e",
-      "download_count": 14616,
+      "download_count": 16421,
       "created_at": "2026-09-16T18:40:00Z",
       "updated_at": "2026-09-16T18:40:00Z",
       "browser_download_url": "https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-windows-x86_64.zip"

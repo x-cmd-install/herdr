@@ -14,11 +14,11 @@ x install herdr
 
 ## Code insight
 
-Total: **659,663** lines of code across **1278** files in the top 5 languages.
+Total: **660,235** lines of code across **1279** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 274,617 | 2,300 | 21,624 | 423 |
+| Rust | 275,164 | 2,335 | 21,660 | 424 |
 | Zig | 255,037 | 55,875 | 45,228 | 757 |
 | CHeader | 36,915 | 15,422 | 4,324 | 65 |
 | Cpp | 32,555 | 6,922 | 4,321 | 9 |
@@ -38,22 +38,22 @@ Total: **659,663** lines of code across **1278** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 40,785 · **Forks**: 3,117 · **Open issues**: 2,229 · **Contributors**: 93
+- **Stars**: 40,914 · **Forks**: 3,133 · **Open issues**: 2,239 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 482 · **Open PRs**: 23 · **Closed issues**: 1889 · **Open issues**: 340 · **Commits**: 1745
+- **Releases**: 89 · **Merged PRs**: 488 · **Open PRs**: 28 · **Closed issues**: 1894 · **Open issues**: 345 · **Commits**: 1752
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 7 | 230 | 15 | 428 | 192 | 272 |
-| last60d | 2026-07-28 | 14 | 376 | 23 | 928 | 277 | 496 |
-| 90d | 2026-06-28 | 25 | 431 | 23 | 1398 | 336 | 802 |
-| last180d | 2026-03-30 | 86 | 482 | 23 | 1889 | 340 | 1687 |
-| 360d | 2025-10-01 | 89 | 482 | 23 | 1889 | 340 | 1739 |
-| last720d | 2024-10-06 | 89 | 482 | 23 | 1889 | 340 | 1745 |
+| 30d | 2026-08-28 | 7 | 230 | 20 | 419 | 193 | 278 |
+| last60d | 2026-07-29 | 14 | 380 | 28 | 916 | 279 | 502 |
+| 90d | 2026-06-29 | 25 | 437 | 28 | 1396 | 340 | 808 |
+| last180d | 2026-03-31 | 85 | 488 | 28 | 1892 | 345 | 1693 |
+| 360d | 2025-10-02 | 89 | 488 | 28 | 1894 | 345 | 1745 |
+| last720d | 2024-10-07 | 89 | 488 | 28 | 1894 | 345 | 1752 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:19:14Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:50:15Z._

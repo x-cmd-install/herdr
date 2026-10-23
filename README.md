@@ -38,22 +38,22 @@ Total: **690,794** lines of code across **1315** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 45,240 · **Forks**: 3,584 · **Open issues**: 2,634 · **Contributors**: 95
+- **Stars**: 45,433 · **Forks**: 3,610 · **Open issues**: 2,644 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 588 · **Open PRs**: 18 · **Closed issues**: 2241 · **Open issues**: 393 · **Commits**: 1868
+- **Releases**: 98 · **Merged PRs**: 588 · **Open PRs**: 19 · **Closed issues**: 2244 · **Open issues**: 400 · **Commits**: 1868
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 9 | 116 | 11 | 257 | 218 | 126 |
-| last60d | 2026-08-23 | 16 | 343 | 17 | 767 | 339 | 396 |
-| 90d | 2026-07-24 | 23 | 500 | 18 | 1298 | 373 | 634 |
-| last180d | 2026-04-25 | 74 | 582 | 18 | 2208 | 393 | 1562 |
-| 360d | 2025-10-27 | 98 | 588 | 18 | 2241 | 393 | 1862 |
-| last720d | 2024-11-01 | 98 | 588 | 18 | 2241 | 393 | 1868 |
+| 30d | 2026-09-23 | 9 | 106 | 12 | 247 | 213 | 126 |
+| last60d | 2026-08-24 | 16 | 339 | 18 | 752 | 342 | 396 |
+| 90d | 2026-07-25 | 23 | 496 | 19 | 1285 | 378 | 634 |
+| last180d | 2026-04-26 | 73 | 582 | 19 | 2210 | 400 | 1562 |
+| 360d | 2025-10-28 | 98 | 588 | 19 | 2244 | 400 | 1862 |
+| last720d | 2024-11-02 | 98 | 588 | 19 | 2244 | 400 | 1868 |
 
 ## Release assets
 
@@ -65,6 +65,15 @@ Total: **690,794** lines of code across **1315** files in the top 5 languages.
 | [herdr-macos-x86_64](https://github.com/herdrdev/herdr/releases/download/v0.9.5/herdr-macos-x86_64) | 23.2 MiB | `native/darwin/x64` |
 | [herdr-windows-x86_64.zip](https://github.com/herdrdev/herdr/releases/download/v0.9.5/herdr-windows-x86_64.zip) | 9.6 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/herdr). **7** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.9.5` | ✅ latest |
+| Nix unstable | `0.9.5` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `herdr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -74,4 +83,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:06:02Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:07:33Z._

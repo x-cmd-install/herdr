@@ -38,22 +38,22 @@ x install herdr
 
 ## 流行度
 
-- **Star**: 45,240 · **Fork**: 3,584 · **开放 issue**: 2,634 · **贡献者**: 95
+- **Star**: 45,433 · **Fork**: 3,610 · **开放 issue**: 2,644 · **贡献者**: 95
 
 ## 累计统计
 
-- **发布数**: 98 · **已合并 PR**: 588 · **开放 PR**: 18 · **已关闭 issue**: 2241 · **开放 issue**: 393 · **提交数**: 1868
+- **发布数**: 98 · **已合并 PR**: 588 · **开放 PR**: 19 · **已关闭 issue**: 2244 · **开放 issue**: 400 · **提交数**: 1868
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 9 | 116 | 11 | 257 | 218 | 126 |
-| last60d | 2026-08-23 | 16 | 343 | 17 | 767 | 339 | 396 |
-| 90d | 2026-07-24 | 23 | 500 | 18 | 1298 | 373 | 634 |
-| last180d | 2026-04-25 | 74 | 582 | 18 | 2208 | 393 | 1562 |
-| 360d | 2025-10-27 | 98 | 588 | 18 | 2241 | 393 | 1862 |
-| last720d | 2024-11-01 | 98 | 588 | 18 | 2241 | 393 | 1868 |
+| 30d | 2026-09-23 | 9 | 106 | 12 | 247 | 213 | 126 |
+| last60d | 2026-08-24 | 16 | 339 | 18 | 752 | 342 | 396 |
+| 90d | 2026-07-25 | 23 | 496 | 19 | 1285 | 378 | 634 |
+| last180d | 2026-04-26 | 73 | 582 | 19 | 2210 | 400 | 1562 |
+| 360d | 2025-10-28 | 98 | 588 | 19 | 2244 | 400 | 1862 |
+| last720d | 2024-11-02 | 98 | 588 | 19 | 2244 | 400 | 1868 |
 
 ## Release 资产
 
@@ -65,6 +65,15 @@ x install herdr
 | [herdr-macos-x86_64](https://github.com/herdrdev/herdr/releases/download/v0.9.5/herdr-macos-x86_64) | 23.2 MiB | `native/darwin/x64` |
 | [herdr-windows-x86_64.zip](https://github.com/herdrdev/herdr/releases/download/v0.9.5/herdr-windows-x86_64.zip) | 9.6 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/herdr) 上共有 **13** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.9.5` | ✅ latest |
+| Nix unstable | `0.9.5` | ✅ latest |
+
 ## 改进这些数据
 
 herdr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `herdr` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +83,4 @@ herdr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:06:03Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:07:34Z._

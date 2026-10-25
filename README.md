@@ -38,22 +38,22 @@ Total: **691,685** lines of code across **1317** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 45,580 · **Forks**: 3,627 · **Open issues**: 2,654 · **Contributors**: 95
+- **Stars**: 45,726 · **Forks**: 3,638 · **Open issues**: 2,666 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 593 · **Open PRs**: 24 · **Closed issues**: 2250 · **Open issues**: 404 · **Commits**: 1875
+- **Releases**: 98 · **Merged PRs**: 593 · **Open PRs**: 24 · **Closed issues**: 2254 · **Open issues**: 412 · **Commits**: 1875
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 9 | 107 | 17 | 241 | 210 | 133 |
-| last60d | 2026-08-25 | 16 | 342 | 23 | 744 | 343 | 403 |
-| 90d | 2026-07-26 | 23 | 495 | 24 | 1281 | 381 | 641 |
-| last180d | 2026-04-27 | 73 | 585 | 24 | 2213 | 404 | 1569 |
-| 360d | 2025-10-29 | 98 | 593 | 24 | 2250 | 404 | 1869 |
-| last720d | 2024-11-03 | 98 | 593 | 24 | 2250 | 404 | 1875 |
+| 30d | 2026-09-25 | 9 | 106 | 17 | 232 | 210 | 133 |
+| last60d | 2026-08-26 | 16 | 342 | 23 | 730 | 349 | 403 |
+| 90d | 2026-07-27 | 23 | 493 | 24 | 1270 | 389 | 641 |
+| last180d | 2026-04-28 | 72 | 585 | 24 | 2217 | 412 | 1569 |
+| 360d | 2025-10-30 | 98 | 593 | 24 | 2254 | 412 | 1869 |
+| last720d | 2024-11-04 | 98 | 593 | 24 | 2254 | 412 | 1875 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:57:06Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:59:39Z._

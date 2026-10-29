@@ -33,27 +33,27 @@ Total: **692,186** lines of code across **1319** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.5` (2026-10-14)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-28
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 46,240 · **Forks**: 3,694 · **Open issues**: 2,699 · **Contributors**: 95
+- **Stars**: 46,426 · **Forks**: 3,715 · **Open issues**: 2,714 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2274 · **Open issues**: 425 · **Commits**: 1878
+- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2354 · **Open issues**: 360 · **Commits**: 1879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 9 | 87 | 20 | 231 | 213 | 86 |
-| last60d | 2026-08-29 | 16 | 334 | 24 | 703 | 357 | 378 |
-| 90d | 2026-07-30 | 22 | 480 | 26 | 1237 | 399 | 584 |
-| last180d | 2026-05-01 | 71 | 588 | 26 | 2236 | 425 | 1553 |
-| 360d | 2025-11-02 | 98 | 596 | 26 | 2274 | 425 | 1872 |
-| last720d | 2024-11-07 | 98 | 596 | 26 | 2274 | 425 | 1878 |
+| 30d | 2026-09-29 | 8 | 77 | 19 | 225 | 210 | 87 |
+| last60d | 2026-08-30 | 16 | 331 | 24 | 767 | 299 | 379 |
+| 90d | 2026-07-31 | 22 | 479 | 26 | 1302 | 334 | 585 |
+| last180d | 2026-05-02 | 71 | 588 | 26 | 2315 | 360 | 1554 |
+| 360d | 2025-11-03 | 98 | 596 | 26 | 2354 | 360 | 1873 |
+| last720d | 2024-11-08 | 98 | 596 | 26 | 2354 | 360 | 1879 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:16:00Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:08:00Z._

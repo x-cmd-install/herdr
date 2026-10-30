@@ -14,11 +14,11 @@ x install herdr
 
 ## Code insight
 
-Total: **692,186** lines of code across **1319** files in the top 5 languages.
+Total: **692,183** lines of code across **1319** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 300,391 | 3,025 | 23,053 | 458 |
+| Rust | 300,388 | 3,025 | 23,053 | 458 |
 | Zig | 255,101 | 55,883 | 45,242 | 757 |
 | CHeader | 36,915 | 15,422 | 4,324 | 65 |
 | Cpp | 32,555 | 6,922 | 4,321 | 9 |
@@ -33,27 +33,27 @@ Total: **692,186** lines of code across **1319** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.5` (2026-10-14)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 46,426 · **Forks**: 3,715 · **Open issues**: 2,714 · **Contributors**: 95
+- **Stars**: 46,694 · **Forks**: 3,728 · **Open issues**: 2,738 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2354 · **Open issues**: 360 · **Commits**: 1879
+- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2362 · **Open issues**: 376 · **Commits**: 1880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 8 | 77 | 19 | 225 | 210 | 87 |
-| last60d | 2026-08-30 | 16 | 331 | 24 | 767 | 299 | 379 |
-| 90d | 2026-07-31 | 22 | 479 | 26 | 1302 | 334 | 585 |
-| last180d | 2026-05-02 | 71 | 588 | 26 | 2315 | 360 | 1554 |
-| 360d | 2025-11-03 | 98 | 596 | 26 | 2354 | 360 | 1873 |
-| last720d | 2024-11-08 | 98 | 596 | 26 | 2354 | 360 | 1879 |
+| 30d | 2026-09-30 | 4 | 75 | 19 | 228 | 211 | 88 |
+| last60d | 2026-08-31 | 16 | 325 | 23 | 747 | 313 | 380 |
+| 90d | 2026-08-01 | 22 | 467 | 26 | 1295 | 350 | 586 |
+| last180d | 2026-05-03 | 70 | 588 | 26 | 2323 | 376 | 1555 |
+| 360d | 2025-11-04 | 98 | 596 | 26 | 2362 | 376 | 1874 |
+| last720d | 2024-11-09 | 98 | 596 | 26 | 2362 | 376 | 1880 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:08:00Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:16:54Z._

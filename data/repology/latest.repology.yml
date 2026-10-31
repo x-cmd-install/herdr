@@ -1,3 +1,22 @@
+- repo: aur
+  srcname: herdr-git
+  binname: herdr-git
+  visiblename: herdr-git
+  version: 0.9.0.r14.g120c682
+  origversion: 0.9.0.r14.g120c682-4
+  status: rolling
+  summary: Terminal workspace manager for AI coding agents
+  maintainers:
+    - jvybihal@aur
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: herdr
+  visiblename: Herdr
+  version: 0.9.5
+  origversion: null
+  status: newest
+  summary: the runtime your coding agents live on
 - repo: alt_p11
   srcname: herdr
   binnames:
@@ -54,25 +73,6 @@
     - czyt@aur
   licenses:
     - AGPL-3.0-or-later
-- repo: aur
-  srcname: herdr-git
-  binname: herdr-git
-  visiblename: herdr-git
-  version: 0.9.0.r14.g120c682
-  origversion: 0.9.0.r14.g120c682-4
-  status: rolling
-  summary: Terminal workspace manager for AI coding agents
-  maintainers:
-    - jvybihal@aur
-  licenses:
-    - Apache-2.0
-- repo: chocolatey
-  binname: herdr
-  visiblename: Herdr
-  version: 0.9.5
-  origversion: null
-  status: newest
-  summary: the runtime your coding agents live on
 - repo: freebsd
   srcname: sysutils/herdr
   binname: herdr

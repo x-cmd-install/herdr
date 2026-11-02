@@ -38,22 +38,22 @@ Total: **692,183** lines of code across **1319** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,190 · **Forks**: 3,774 · **Open issues**: 2,765 · **Contributors**: 95
+- **Stars**: 47,410 · **Forks**: 3,791 · **Open issues**: 2,775 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2389 · **Open issues**: 376 · **Commits**: 1880
+- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2394 · **Open issues**: 381 · **Commits**: 1880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 4 | 69 | 19 | 220 | 212 | 88 |
-| last60d | 2026-09-02 | 15 | 308 | 23 | 737 | 313 | 380 |
-| 90d | 2026-08-03 | 22 | 459 | 26 | 1298 | 349 | 586 |
-| last180d | 2026-05-05 | 70 | 588 | 26 | 2348 | 376 | 1555 |
-| 360d | 2025-11-06 | 98 | 596 | 26 | 2389 | 376 | 1874 |
-| last720d | 2024-11-11 | 98 | 596 | 26 | 2389 | 376 | 1880 |
+| 30d | 2026-10-03 | 4 | 68 | 19 | 211 | 210 | 50 |
+| last60d | 2026-09-03 | 15 | 298 | 22 | 729 | 318 | 327 |
+| 90d | 2026-08-04 | 20 | 443 | 26 | 1273 | 354 | 513 |
+| last180d | 2026-05-06 | 70 | 587 | 26 | 2349 | 381 | 1501 |
+| 360d | 2025-11-07 | 98 | 596 | 26 | 2394 | 381 | 1874 |
+| last720d | 2024-11-12 | 98 | 596 | 26 | 2394 | 381 | 1880 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Reported by **13** distros on [repology.org](https://repology.org/project/herdr)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.9.5` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.9.5` | ✅ latest |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:30:17Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:29:26Z._

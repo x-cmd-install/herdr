@@ -38,22 +38,22 @@ Total: **692,183** lines of code across **1319** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,410 · **Forks**: 3,791 · **Open issues**: 2,775 · **Contributors**: 95
+- **Stars**: 47,685 · **Forks**: 3,822 · **Open issues**: 2,787 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2394 · **Open issues**: 381 · **Commits**: 1880
+- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2398 · **Open issues**: 389 · **Commits**: 1880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 4 | 68 | 19 | 211 | 210 | 50 |
-| last60d | 2026-09-03 | 15 | 298 | 22 | 729 | 318 | 327 |
-| 90d | 2026-08-04 | 20 | 443 | 26 | 1273 | 354 | 513 |
-| last180d | 2026-05-06 | 70 | 587 | 26 | 2349 | 381 | 1501 |
-| 360d | 2025-11-07 | 98 | 596 | 26 | 2394 | 381 | 1874 |
-| last720d | 2024-11-12 | 98 | 596 | 26 | 2394 | 381 | 1880 |
+| 30d | 2026-10-04 | 4 | 67 | 19 | 206 | 214 | 50 |
+| last60d | 2026-09-04 | 15 | 294 | 22 | 715 | 325 | 327 |
+| 90d | 2026-08-05 | 20 | 439 | 26 | 1261 | 360 | 513 |
+| last180d | 2026-05-07 | 69 | 587 | 26 | 2350 | 389 | 1501 |
+| 360d | 2025-11-08 | 98 | 596 | 26 | 2398 | 389 | 1874 |
+| last720d | 2024-11-13 | 98 | 596 | 26 | 2398 | 389 | 1880 |
 
 ## Release assets
 
@@ -67,12 +67,13 @@ Total: **692,183** lines of code across **1319** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/herdr). **7** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/herdr). **8** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.9.5` | ✅ latest |
 | Nix unstable | `0.9.5` | ✅ latest |
+| openSUSE Tumbleweed | `0.9.5` | ✅ latest |
 
 ## Improve this data
 
@@ -83,4 +84,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:29:26Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:16:46Z._

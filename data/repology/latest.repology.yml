@@ -1,10 +1,17 @@
-- repo: homebrew
-  srcname: herdr
+- repo: macports
+  srcname: sysutils/herdr
+  binname: herdr
   visiblename: herdr
-  version: HEAD
+  version: 0.9.5
   origversion: null
-  status: rolling
-  summary: Agent multiplexer that lives in your terminal
+  status: newest
+  summary: Terminal workspace manager for AI coding agents
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - Apache-2
+  categories:
+    - sysutils
 - repo: alt_p11
   srcname: herdr
   binnames:
@@ -99,20 +106,13 @@
   origversion: null
   status: newest
   summary: Agent multiplexer that lives in your terminal
-- repo: macports
-  srcname: sysutils/herdr
-  binname: herdr
+- repo: homebrew
+  srcname: herdr
   visiblename: herdr
-  version: 0.9.5
+  version: HEAD
   origversion: null
-  status: newest
-  summary: Terminal workspace manager for AI coding agents
-  maintainers:
-    - herbygillot@github
-  licenses:
-    - Apache-2
-  categories:
-    - sysutils
+  status: rolling
+  summary: Agent multiplexer that lives in your terminal
 - repo: nix_unstable
   srcname: herdr
   visiblename: herdr
@@ -126,6 +126,25 @@
     - gitkevin@pm.me
   licenses:
     - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: herdr
+  binnames:
+    - herdr
+    - herdr-debuginfo
+    - herdr-debugsource
+    - herdr-bash-completion
+    - herdr-zsh-completion
+    - herdr-fish-completion
+  visiblename: herdr
+  version: 0.9.5
+  origversion: 0.9.5-1.1
+  status: newest
+  summary: Terminal workspace manager for AI coding agents
+  licenses:
+    - Apache-2.0 AND MIT AND 0BSD AND Unicode-3.0 AND Zlib
+  categories:
+    - Unspecified
 - repo: pacstall
   srcname: herdr-bin
   binname: herdr-bin

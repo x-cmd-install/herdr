@@ -4,9 +4,9 @@
     - herdr
     - herdr-debuginfo
   visiblename: herdr
-  version: 0.8.2
-  origversion: 0.8.2-alt1
-  status: outdated
+  version: 0.9.5
+  origversion: 0.9.5-alt1
+  status: newest
   summary: Terminal workspace manager for AI coding agents
   maintainers:
     - egori@altlinux.org

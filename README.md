@@ -38,22 +38,22 @@ Total: **692,183** lines of code across **1319** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 49,190 · **Forks**: 3,967 · **Open issues**: 2,842 · **Contributors**: 94
+- **Stars**: 49,527 · **Forks**: 3,999 · **Open issues**: 2,853 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2421 · **Open issues**: 421 · **Commits**: 1880
+- **Releases**: 98 · **Merged PRs**: 596 · **Open PRs**: 26 · **Closed issues**: 2424 · **Open issues**: 429 · **Commits**: 1880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 36 | 19 | 177 | 221 | 50 |
-| last60d | 2026-09-09 | 12 | 259 | 20 | 640 | 341 | 327 |
-| 90d | 2026-08-10 | 20 | 409 | 26 | 1178 | 388 | 513 |
-| last180d | 2026-05-12 | 67 | 585 | 26 | 2353 | 421 | 1501 |
-| 360d | 2025-11-13 | 98 | 596 | 26 | 2421 | 421 | 1874 |
-| last720d | 2024-11-18 | 98 | 596 | 26 | 2421 | 421 | 1880 |
+| 30d | 2026-10-10 | 4 | 36 | 19 | 175 | 224 | 16 |
+| last60d | 2026-09-10 | 12 | 251 | 20 | 613 | 345 | 210 |
+| 90d | 2026-08-11 | 20 | 401 | 26 | 1165 | 395 | 466 |
+| last180d | 2026-05-13 | 66 | 585 | 26 | 2355 | 429 | 1407 |
+| 360d | 2025-11-14 | 98 | 596 | 26 | 2424 | 429 | 1874 |
+| last720d | 2024-11-19 | 98 | 596 | 26 | 2424 | 429 | 1880 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **692,183** lines of code across **1319** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/herdr). **8** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/herdr). **9** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,4 +84,4 @@ Install metadata for herdr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:29:05Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:56:37Z._

@@ -39,7 +39,7 @@
   status: outdated
   summary: Terminal workspace manager for AI coding agents
   maintainers:
-    - huyz@aur
+    - fallback-mnt-aur@repology
   licenses:
     - AGPL-3.0-or-later
 - repo: aur
